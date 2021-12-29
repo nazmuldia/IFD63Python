@@ -8,3 +8,9 @@ print(x/y)
 
 
 print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
